@@ -145,7 +145,7 @@ class MyApp extends StatelessWidget {
 > تسمى هذه العملية Hot Reload وهي ميزة من الميزات القوية الموجودة في Flutter وهي تمكنك من التحديث والتعديل على التطبيق الخاص بك دون الحاجة لوقف التطبيق وإعادة تشغيله مرة اخرى.
 
 
-![[my_tasks_centered_text.png]]
+![My Tasks Centered Text](../images/ui/my_tasks_centered_text.png)
 
 التابع *main* يبدأ منه تنفيذ التطبيق بالكامل وتابع runApp فيه يتم تحديد الواجهة الأولى التي سيبنى التطبيق عليها.
 

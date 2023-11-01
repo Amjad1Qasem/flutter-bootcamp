@@ -16,13 +16,13 @@ flutter create my_tasks
 code my_tasks
 ```
 
-![[open_project_on_vscode.png]]
+![Open Project on VS Code](../../images/installation/open_project_on_vscode.png)
 
 قم باختيار نوع الجهاز المراد تشغيل المشروع عليه، في حالتنا سوف نختار محاكي Android:
 
 من ثم قم بتشغيل المشروع بالضغط على F5 و من ثم اختار Dart & Flutter:
 
-![[dart&flutter.png]]
+![Dart & Flutter](../../images/installation/dart&flutter.png)
 
 مبارك لك! لقد قمت بتشغيل اول مشروع لك بنجاح:
 
